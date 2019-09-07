@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LatihanDatabase_9455</string>
+
+        <string-array name="fakultas_list">
+            <item>FTI</item>
+            <item>FISIP</item>
+            <item>FBE</item>
+            <item>FT</item>
+            <item>FH</item>
+            <item>FTB</item>
+        </string-array>
+
+    <string-array name="prodi_list">
+        <item>Teknik Informatika</item>
+        <item>SI</item>
+        <item>Teknik Industri</item>
+    </string-array>
+
+
+</resources>
